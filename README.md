@@ -1,2 +1,2 @@
 # hello-world
-I am really looking forward to perfect my coding skills.
+I am really looking forward to perfecting my coding skills.
